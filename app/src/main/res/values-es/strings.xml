@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bubble-Komga</string>
+    <string name="app_description">Lector de cómics para android</string>
+
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="action_view_mode">Modo de visualización</string>
+    <string name="action_view_mode_aspect_fill">Llenar aspecto</string>
+    <string name="action_view_mode_aspect_fit">Ajuste de aspecto</string>
+    <string name="action_view_mode_fit_width">Ajuste de ancho</string>
+
+    <string name="action_reading_mode">Modo de lectura</string>
+    <string name="action_reading_mode_left_to_right">Cómics</string>
+    <string name="action_reading_mode_right_to_left">Manga</string>
+
+    <string name="menu_browser_filter">Filtro</string>
+    <string name="menu_browser_filter_all">Todos</string>
+    <string name="menu_browser_filter_read">Leer</string>
+    <string name="menu_browser_filter_reading">Actualmente leyendo</string>
+    <string name="menu_browser_filter_unread">Sin leer</string>
+    <string name="menu_browser_filter_unfinished">Incompleto</string>
+
+    <string name="drawer_open">Abrir panel de navegación</string>
+    <string name="drawer_close">Cerrar el panel de navegación</string>
+
+    <string name="menu_library">Biblioteca</string>
+    <string name="menu_about">Acerca de</string>
+
+    <string name="library_header_recent">Reciente</string>
+    <string name="library_header_all">Todos</string>
+
+    <string name="directory_picker_header">Establecer un directorio de la Biblioteca</string>
+    <string name="directory_picker_confirm">Seleccionar</string>
+    <string name="directory_picker_cancel">Cancelar</string>
+
+    <string name="search">Buscar</string>
+
+    <string name="browser_search_hint">Por favor introduzca un término de búsqueda</string>
+
+    <string name="reload">Recargar</string>
+
+    <string name="switch_action_positive">Si</string>
+    <string name="switch_action_negative">No</string>
+    <string name="switch_next_confirm_comic">¿Le gustaría pasar al siguiente cómic?</string>
+    <string name="switch_prev_confirm_comic">¿Le gustaría cambiar al cómic anterior?</string>
+</resources>

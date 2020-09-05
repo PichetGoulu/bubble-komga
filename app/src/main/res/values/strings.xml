@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bubble-Komga</string>
+    <string name="app_description">Android comic reader</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_view_mode">View Mode</string>
+    <string name="action_view_mode_aspect_fill">Aspect Fill</string>
+    <string name="action_view_mode_aspect_fit">Aspect Fit</string>
+    <string name="action_view_mode_fit_width">Fit Width</string>
+
+    <string name="action_reading_mode">Reading Mode</string>
+    <string name="action_reading_mode_left_to_right">Comics</string>
+    <string name="action_reading_mode_right_to_left">Manga</string>
+
+    <string name="menu_browser_filter">Filter</string>
+    <string name="menu_browser_filter_all">All</string>
+    <string name="menu_browser_filter_read">Read</string>
+    <string name="menu_browser_filter_reading">Currently reading</string>
+    <string name="menu_browser_filter_unread">Unread</string>
+    <string name="menu_browser_filter_unfinished">Unfinished</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="menu_library">Library</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+
+    <string name="library_header_recent">Recent</string>
+    <string name="library_header_all">All</string>
+
+    <string name="directory_picker_header">Set a library directory</string>
+    <string name="directory_picker_confirm">Select</string>
+    <string name="directory_picker_cancel">Cancel</string>
+
+    <string name="search">Search</string>
+
+    <string name="browser_search_hint">Please enter a search term</string>
+
+    <string name="reload">Reload</string>
+
+    <string name="switch_action_positive">Yes</string>
+    <string name="switch_action_negative">No</string>
+    <string name="switch_action_ok">Ok</string>
+    <string name="switch_next_confirm_comic">Would you like to switch to the next comic?</string>
+    <string name="switch_prev_confirm_comic">Would you like to switch to the previous comic?</string>
+    <string name="switch_next_no_more_comic">This comic is the last one</string>
+    <string name="switch_previous_no_more_comic">This comic is the first one</string>
+    <string name="switch_next_comic">Switching to the next comic</string>
+    <string name="switch_prev_comic">Switching to the previous comic</string>
+
+    <string name="library_not_connected">Your collection seems empty.\n Check your connection with Komga</string>
+
+    <string name="komga_test_api_ok">Ok</string>
+    <string name="komga_test_api_error">Could not connect to the Komga server</string>
+
+    <string name="setting_category_komga">Komga Server</string>
+    <string name="setting_komga_url">Server URL</string>
+    <string name="setting_komga_username">Username</string>
+    <string name="setting_komga_password">Password</string>
+    <string name="setting_komga_library_id">Library Id</string>
+    <string name="setting_komga_test_button">Test connection</string>
+    <string name="setting_komga_test_button_summary">Click me to test the connection</string>
+
+    <string translatable="false" name="setting_key_preferences_file">setting_key_preferences</string>
+    <string translatable="false" name="setting_key_komga_url">setting_key_komga_url</string>
+    <string translatable="false" name="setting_key_komga_username">setting_key_komga_username</string>
+    <string translatable="false" name="setting_key_komga_password">setting_key_komga_password</string>
+    <string translatable="false" name="setting_key_komga_library_id">setting_key_komga_library_id</string>
+    <string translatable="false" name="setting_key_komga_test_button">setting_key_komga_test_button</string>
+</resources>

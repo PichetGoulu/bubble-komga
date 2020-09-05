@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Copyright (C) 2015, Nicola Spanti (also known as RyDroid) <dev@nicola-spanti.info>
+
+        Copying and distribution of this file, with or without modification,
+        are permitted in any medium without royalty provided the copyright
+        notice and this notice are preserved.  This file is offered as-is,
+        without any warrant
+    -->
+
+    <string name="app_name">Bubble-Komga</string>
+    <string name="app_description">Lecteur de BDs pour Android</string>
+
+    <string name="action_refresh">Rafraichir</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="action_view_mode">Vue</string>
+    <string name="action_view_mode_aspect_fill">Remplissage</string>
+    <string name="action_view_mode_aspect_fit">Adaptée</string>
+    <string name="action_view_mode_fit_width">Largeur adaptée</string>
+
+    <string name="action_reading_mode"></string>
+    <string name="action_reading_mode_left_to_right"></string>
+    <string name="action_reading_mode_right_to_left"></string>
+
+    <string name="menu_browser_filter">Filtre</string>
+    <string name="menu_browser_filter_all">Tout</string>
+    <string name="menu_browser_filter_read">Lu</string>
+    <string name="menu_browser_filter_reading">En lecture</string>
+    <string name="menu_browser_filter_unread">Non lu</string>
+    <string name="menu_browser_filter_unfinished">Inachevé</string>
+
+    <string name="drawer_open">Ouvrir le volet de navigation</string>
+    <string name="drawer_close">Fermer le volet de navigation</string>
+
+    <string name="menu_library">Bibliothèque</string>
+    <string name="menu_about">À propos</string>
+
+    <string name="directory_picker_header">Définissez le répertoire de vos BDs</string>
+    <string name="directory_picker_confirm">Selectionner</string>
+    <string name="directory_picker_cancel">Annuler</string>
+
+    <string name="search">Rechercher</string>
+
+    <string name="browser_search_hint">Veuillez entrer un terme de recherche</string>
+
+    <string name="reload">Recharger</string>
+
+    <string name="switch_action_negative"></string>
+    <string name="switch_action_positive"></string>
+    <string name="switch_next_confirm_comic"></string>
+    <string name="switch_prev_confirm_comic"></string>
+
+    <string name="library_header_all"></string>
+    <string name="library_header_recent"></string>
+</resources>

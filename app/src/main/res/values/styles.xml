@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+
+        <item name="android:textColor">@color/darkest</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/lightest</item>
+        <item name="colorControlNormal">@color/lightest</item>
+    </style>
+</resources>

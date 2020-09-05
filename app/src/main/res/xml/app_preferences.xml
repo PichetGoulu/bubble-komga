@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/setting_category_komga">
+
+        <EditTextPreference
+            android:key="@string/setting_key_komga_url"
+            android:inputType="textUri"
+            android:title="@string/setting_komga_url"
+            android:defaultValue="http://example/" />
+
+        <EditTextPreference
+            android:key="@string/setting_key_komga_username"
+            android:inputType="text"
+            android:title="@string/setting_komga_username"
+            android:defaultValue="username" />
+
+        <EditTextPreference
+            android:key="@string/setting_key_komga_password"
+            android:inputType="textPassword"
+            android:title="@string/setting_komga_password"
+            android:defaultValue="password" />
+
+        <EditTextPreference
+            android:key="@string/setting_key_komga_library_id"
+            android:inputType="number"
+            android:title="@string/setting_komga_library_id"
+            android:defaultValue="1" />
+
+        <Preference
+            android:title="@string/setting_komga_test_button"
+            android:key="@string/setting_key_komga_test_button"
+            android:summary="@string/setting_komga_test_button_summary"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

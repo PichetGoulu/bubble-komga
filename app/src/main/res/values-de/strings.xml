@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bubble-Komga</string>
+    <string name="search">Suche</string>
+    <string name="switch_action_negative">Nein</string>
+    <string name="switch_action_positive">Ja</string>
+    <string name="switch_next_confirm_comic">Möchten Sie zum nächsten Comic wechseln?</string>
+    <string name="switch_prev_confirm_comic">Möchten Sie zum vorhergehenden Comic wechseln?</string>
+    <string name="action_reading_mode">Lesemodus</string>
+    <string name="action_reading_mode_left_to_right">Comics</string>
+    <string name="action_reading_mode_right_to_left">Manga</string>
+    <string name="action_refresh">Neu Laden</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_view_mode">Ansicht</string>
+    <string name="action_view_mode_aspect_fill">Ausfüllen</string>
+    <string name="action_view_mode_aspect_fit">Einpassen</string>
+    <string name="action_view_mode_fit_width">Breite ausfüllen</string>
+    <string name="app_description">Comic-Reader für Android</string>
+    <string name="browser_search_hint">Bitte einen Suchbegriff eingeben</string>
+    <string name="directory_picker_cancel">Abbrechen</string>
+    <string name="directory_picker_confirm">Auswählen</string>
+    <string name="directory_picker_header">Bibliotheksverzeichnis auswählen</string>
+    <string name="drawer_close">Navigationspanel ausblenden</string>
+    <string name="drawer_open">Navigationspanel öffnen</string>
+    <string name="library_header_all">Alle</string>
+    <string name="library_header_recent">Zuletzt gelesen</string>
+    <string name="menu_about">Über</string>
+    <string name="menu_browser_filter">Filter</string>
+    <string name="menu_browser_filter_all">Alle</string>
+    <string name="menu_browser_filter_read">Gelesen</string>
+    <string name="menu_browser_filter_reading">Gerade am Lesen</string>
+    <string name="menu_browser_filter_unfinished">Angefangen</string>
+    <string name="menu_browser_filter_unread">Ungelesen</string>
+    <string name="menu_library">Bibliothek</string>
+    <string name="reload">Neu laden</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ReaderTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/darkest_semitransparent</item>
+        <item name="android:textColor">@color/lightest</item>
+        <item name="alertDialogTheme">@style/AppCompatAlertDialogStyle</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="colorAccent">@color/primary</item>
+        <item name="android:textColorPrimary">@color/lightest</item>
+        <item name="android:background">@color/primary_material_dark</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+    </style>
+
+    <style name="DarkToolbarTheme" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/lightest</item>
+        <item name="android:colorBackground">@color/darkest</item>
+        <item name="colorControlNormal">@color/lightest</item>
+        <item name="colorControlHighlight">@color/darker</item>
+    </style>
+</resources>

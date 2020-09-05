@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_reader_reading"
+          android:title="@string/action_reading_mode"
+          android:icon="@drawable/ic_book_open_white_24dp"
+          app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/reading_left_to_right"
+                      android:title="@string/action_reading_mode_left_to_right"/>
+                <item android:id="@+id/reading_right_to_left"
+                      android:title="@string/action_reading_mode_right_to_left"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/menu_reader_aspect_ratio"
+          android:title="@string/action_view_mode"
+          android:icon="@drawable/ic_aspect_ratio_white_24dp"
+          app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/view_mode_aspect_fill"
+                      android:title="@string/action_view_mode_aspect_fill"/>
+                <item android:id="@+id/view_mode_aspect_fit"
+                      android:title="@string/action_view_mode_aspect_fit"/>
+                <item android:id="@+id/view_mode_fit_width"
+                      android:title="@string/action_view_mode_fit_width"/>
+            </group>
+        </menu>
+    </item>
+</menu>
